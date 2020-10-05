@@ -1,5 +1,5 @@
 {
-  "name": "@Altcoin-Cash/helpthehomelessd-rpc",
+  "name": "@HTHcoin/helpthehomelessd-rpc",
   "description": "Helpthehomeless Client Library to connect to Helpthehomeless Core (helpthehomelessd) via RPC",
   "version": "2.0.1",
   "author": {
@@ -34,7 +34,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Altcoin-Cash/helpthehomelessd-rpc"
+    "url": "https://github.com/HTHcoin/helpthehomelessd-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -56,7 +56,7 @@
     "sinon": "^7.1.1"
   },
   "bugs": {
-    "url": "https://github.com/Altcoin-Cash/helpthehomelessd-rpc/issues"
+    "url": "https://github.com/HTHcoin/helpthehomelessd-rpc/issues"
   },
-  "homepage": "https://github.com/Altcoin-Cash/helpthehomelessd-rpc"
+  "homepage": "https://github.com/HTHcoin/helpthehomelessd-rpc"
 }
